@@ -14,7 +14,7 @@ You are going to write program that takes a word (or short phrase) from the comm
 
 There is no code to copy for the assignment. You get to do it all! Don't forget to provide proper Javadoc documentation.
 
-We are going to do this exercise by writing the object that solves the problem by putting code into **ReverseWord.java**. Using the techniques shown on the web page titled [http://crowd.cs.sbcc.edu:7990/projects/CS105F2016/repos/allan.knight/browse/HowToStartEveryProject.md) to create a source file called **ReverseWord.java**. This is where your code will go. 
+We are going to do this exercise by writing the object that solves the problem by putting code into **ReverseWord.java**. Using the techniques shown on the web page titled [How to Start Every Project in this Class](http://209.129.49.15:7990/projects/CS105F2016/repos/allan.knight/browse/HowToStartEveryProject.md) to create a source file called **ReverseWord.java**. This is where your code will go. 
 
 ### Testing Your Code
 
